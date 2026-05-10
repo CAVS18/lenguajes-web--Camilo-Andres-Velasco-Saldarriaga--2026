@@ -40,21 +40,18 @@ No se observaron redirecciones 3xx relevantes durante la carga inicial.
 tiene muchos scripts
 ## 3. Sitio comercial colombiano
 ### Datos generales
-* URL analizada:*
-* Fecha y hora de observación:*
-* Código de estado del documento principal:*
-* TTFB:*
-* Tamaño total transferido:*
-* Número total de peticiones:*
-* Redirecciones 3xx observadas:*
-- Escriba aquí las redirecciones observadas.
-- Si no se observaron, escribir: No se observaron redirecciones 3xx relevantes.
-* Autoridad emisora del certificado TLS:*
-Nombre de la autoridad certificadora
-* Fecha de expiración del certificado TLS:*
+* URL analizada:https://www.exito.com/coleccion/32069
+* Fecha y hora de observación:6:26 PM 5/10/2026
+* Código de estado del documento principal:304
+* TTFB:74.84ms
+* Tamaño total transferido:459kb
+* Número total de peticiones:193
+* Redirecciones 3xx observadas:No se observaron redirecciones 3xx relevantes.
+* Autoridad emisora del certificado TLS: WE1
+* Fecha de expiración del certificado TLS: sabado junio 20 2026 a las 9:04:26 AM
 ### Capturas
-![Panel Network sitio comercial](capturas/comercial-network.png)
-![Certificado TLS sitio comercial](capturas/comercial-certificado.png)
+![Panel Network sitio comercial (11.png)
+![Certificado TLS sitio comercial](6767.PNg)
 ### Observaciones
 
 
